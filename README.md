@@ -2,7 +2,7 @@
  
 Project Made by Zach Wilson
 
-October 23th 2022
+October 23, 2022
 
 Based on the ____ Project Asset Package. 
 
